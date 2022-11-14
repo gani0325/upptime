@@ -1,0 +1,23 @@
+[
+  {
+    "name": "alpaca.com",
+    "url": "https://alpaca-gt.tistory.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/dev.to.ico",
+    "slug": "alpaca-com",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
+    "time": 221,
+    "timeDay": 292,
+    "timeWeek": 251,
+    "timeMonth": 227,
+    "timeYear": 229,
+    "dailyMinutesDown": {
+      "2022-09-15": 26,
+      "2022-03-11": 38
+    }
+  }
+]
