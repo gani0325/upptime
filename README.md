@@ -1,3 +1,9 @@
+## ⭐ 오픈소스 upptime 원리
+1. Github Actions의 스케줄링 기능을 이용해 미리 정의된 엔드포인트에 주기적으로 HTTP/TCP 요청을 날립니다 (기본 값: 5분).
+2. Upptime이 체크하는 여러가지 사항 중 응답이 저하되거나 다운되는 경우, 새로운 Github Issue를 발행합니다.
+3. 이후 서버 장애가 해결되면 해당 Github Issue는 Close 됩니다.
+4. 이 리포트 결과를 Github Pages로 만들어진 웹 대시보드를 통해 언제든지 확인할 수 있습니다.
+
 # [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
 
 <!--start: description-->
