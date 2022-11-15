@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: alpaca
-    url: https://alpaca-gt.tistory.com/
+    # url: https://alpaca-gt.tistory.com/
 
 status-website:
   name: Upptime for alpaca.com
